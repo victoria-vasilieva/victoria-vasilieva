@@ -14,8 +14,3 @@
 ## Fun Facts
 - ☕ Coffee enthusiast
 - 🏖️ Enjoy budget travel planning
-
----
-
-![Victoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoria-vasilieva&show_icons=true&theme=radical)
-
