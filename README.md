@@ -11,6 +11,14 @@
 - 📊 **Data Analysis & Visualization**: ETL pipelines, dashboards, and actionable insights
 - 🛠️ **Tech Skills**: Python, Pandas, NumPy, SQL, Scikit-learn, Tableau, Streamlit, Azure
 
+## Certificates
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/victoria-vasilieva/certificates)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/victoria-vasilieva/certificates)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/victoria-vasilieva/certificates)
+
+- 🎓 See all [Certificates](https://github.com/victoria-vasilieva/certificates)
+
+
 ## Fun Facts
 - ☕ Coffee enthusiast
 - 🏖️ Enjoy budget travel planning
