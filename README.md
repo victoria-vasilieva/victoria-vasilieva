@@ -3,7 +3,7 @@
 ## About Me
 - 🎓 Data Science and AI enthusiast with a strong background in E-Commerce and Revenue Management
 - 💡 Passionate about statistics, machine learning, and data-driven projects
-- 🌱 Currently exploring AI tools, Python, Streamlit, and predictive modeling
+- 🌱 Deepening expertise in machine learning, predictive modeling, databases and cloud technologies.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in//victoria-vasilieva/) | [Email](mailto:v.vasiliewa@gmail.com)
 
 ## Projects & Highlights
