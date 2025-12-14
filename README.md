@@ -35,6 +35,10 @@
 **Description:** Uses BigQuery, Looker, and a Python sales prediction model to track KPIs, visualize performance, and predict future sales—helping teams make faster, data-driven decisions.  
 **Repo:** [Business-KPI-Dashboard-Looker-BigQuery-Python](https://github.com/victoria-vasilieva/Business-KPI-Dashboard-Looker-BigQuery-Python)  
 
+### mushroom_classification ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter) ![ML](https://img.shields.io/badge/ML-FF6F61?style=flat)
+**Description:** Predict whether a mushroom is edible or poisonous using machine learning with domain-specific feature engineering.  
+**Repo:** [mushroom_classification](https://github.com/victoria-vasilieva/mushroom_classification)  
+
 
 ## Fun Facts
 - ☕ Coffee enthusiast
