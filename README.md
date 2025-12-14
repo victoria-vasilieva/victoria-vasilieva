@@ -15,29 +15,23 @@
 
 ## Projects & Highlights
 
-### User-Manuals-Rag-Chatbot ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![ML](https://img.shields.io/badge/ML-FF6F61?style=flat)
-**Description:** An AI-powered chatbot for technical PDFs, demonstrating RAG pipelines, experimental evaluation, and faithfulness-focused answer generation.  
-**Repo:** [User-Manuals-Rag-Chatbot](https://github.com/victoria-vasilieva/User-Manuals-Rag-Chatbot)  
+### [User-Manuals-Rag-Chatbot](https://github.com/victoria-vasilieva/User-Manuals-Rag-Chatbot) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![ML](https://img.shields.io/badge/ML-FF6F61?style=flat)
+An AI-powered chatbot for technical PDFs, demonstrating RAG pipelines, experimental evaluation, and faithfulness-focused answer generation.  
 
-### EU_Sustainability_Classification ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter) ![ML](https://img.shields.io/badge/ML-FF6F61?style=flat)
-**Description:** EU Sustainability Performance Tier Classification using machine learning on the 2025 Europe Sustainable Development Report dataset. Classifies EU countries into sustainability tiers.  
-**Repo:** [EU_Sustainability_Classification](https://github.com/victoria-vasilieva/EU_Sustainability_Classification)  
+### [EU_Sustainability_Classification](https://github.com/victoria-vasilieva/EU_Sustainability_Classification) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter) ![ML](https://img.shields.io/badge/ML-FF6F61?style=flat)
+EU Sustainability Performance Tier Classification using machine learning on the 2025 Europe Sustainable Development Report dataset. Classifies EU countries into sustainability tiers.
 
-### Finger-Alphabet-Recognition-Transfer-Learning ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter) ![DL](https://img.shields.io/badge/Deep_Learning-0052CC?style=flat)
-**Description:** Uses deep learning to classify images of the finger alphabet (sign language letters). Builds an accurate image classifier using a small dataset and strong pre-trained models.  
-**Repo:** [Finger-Alphabet-Recognition-Transfer-Learning](https://github.com/victoria-vasilieva/Finger-Alphabet-Recognition-Transfer-Learning)  
+### [Finger-Alphabet-Recognition-Transfer-Learning](https://github.com/victoria-vasilieva/Finger-Alphabet-Recognition-Transfer-Learning) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter) ![DL](https://img.shields.io/badge/Deep_Learning-0052CC?style=flat)
+Uses deep learning to classify images of the finger alphabet (sign language letters). Builds an accurate image classifier using a small dataset and strong pre-trained models.
 
-### spotify-playlist-clustering ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter) ![ML](https://img.shields.io/badge/ML-FF6F61?style=flat)
-**Description:** Machine learning prototype for automated playlist creation. Uses Spotify audio features and unsupervised clustering (KMeans, DBSCAN, Agglomerative) to group songs into mood/genre-based playlists.  
-**Repo:** [spotify-playlist-clustering](https://github.com/victoria-vasilieva/spotify-playlist-clustering)  
+### [Spotify-Playlist-Clustering](https://github.com/victoria-vasilieva/spotify-playlist-clustering) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter) ![ML](https://img.shields.io/badge/ML-FF6F61?style=flat)
+Machine learning prototype for automated playlist creation. Uses Spotify audio features and unsupervised clustering (KMeans, DBSCAN, Agglomerative) to group songs into mood/genre-based playlists.
 
-### Business-KPI-Dashboard-Looker-BigQuery-Python ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
-**Description:** Uses BigQuery, Looker, and a Python sales prediction model to track KPIs, visualize performance, and predict future sales—helping teams make faster, data-driven decisions.  
-**Repo:** [Business-KPI-Dashboard-Looker-BigQuery-Python](https://github.com/victoria-vasilieva/Business-KPI-Dashboard-Looker-BigQuery-Python)  
+### [Business-KPI-Dashboard-Looker-BigQuery-Python](https://github.com/victoria-vasilieva/Business-KPI-Dashboard-Looker-BigQuery-Python) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
+Uses BigQuery, Looker, and a Python sales prediction model to track KPIs, visualize performance, and predict future sales—helping teams make faster, data-driven decisions.  
 
-### mushroom_classification ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter) ![ML](https://img.shields.io/badge/ML-FF6F61?style=flat)
-**Description:** Predict whether a mushroom is edible or poisonous using machine learning with domain-specific feature engineering.  
-**Repo:** [mushroom_classification](https://github.com/victoria-vasilieva/mushroom_classification)  
+### [Mushroom_Classification](https://github.com/victoria-vasilieva/mushroom_classification) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter) ![ML](https://img.shields.io/badge/ML-FF6F61?style=flat)
+Predict whether a mushroom is edible or poisonous using machine learning with domain-specific feature engineering.  
 
 
 ## Fun Facts
