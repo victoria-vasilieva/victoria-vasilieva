@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Victoria
 
 ## About Me
-- 🎓 Data Science and AI enthusiast with a strong background in E-Commerce and Revenue Management
-- 💡 Passionate about statistics, machine learning, and data-driven projects
-- 🌱 Deepening expertise in machine learning, predictive modeling, databases and cloud technologies.
+- 🎓 Data Science & AI professional with a background in E-Commerce and Revenue Management.  
+- 💡 Specializing in predictive modeling, machine learning, and data-driven solutions.  
+- 🌱 Deepening expertise in advanced ML techniques, databases, and cloud technologies.  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in//victoria-vasilieva/) | [Email](mailto:v.vasiliewa@gmail.com)
 
 ## Certificates
