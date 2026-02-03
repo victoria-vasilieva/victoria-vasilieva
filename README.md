@@ -37,6 +37,24 @@
 
 ## Projects & Highlights
 
+
+### [Solar panels planner - Solar Sight](https://github.com/Cebulva/rooftop-solar-analysis-ml-pvlib) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PYTORCH](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/victoria-vasilieva/certificates/blob/main/Scikit-learnAssociatePractitionerCertification20251124-31-kicjzb.pdf)
+ 
+
+An end-to-end pipeline using Computer Vision to detect rooftops, analyze geometry, and generate precise solar energy production reports.
+
+<details>
+<summary>👇 Features</summary>
+  
+- **AI-Powered Rooftop Extraction:** Uses a custom-trained U-Net model to segment roof structures from high-resolution satellite imagery.
+- **Geometric Vectorization And Analysis:** Converts raw AI pixel masks into clean polygons to calculate precise roof area and orientation (azimuth).
+- **Intelligent Noise Suppression:** Implements advanced geometric and spatial filtering to distinguish target rooftops from streets, sidewalks, and neighboring structures.
+- **Human-in-the-Loop Refinement:** Integrated Streamlit dashboard allowing users to manually adjust AI-generated vectors for 100% accuracy.
+- **Solar Energy Yield Modeling:** Generates detailed reports on annual energy production (kWh), CO2 savings, and optimal panel placement based on roof geometry.
+- **Retrieval-Augmented AI Assistant**: Delivers personalized, location-aware responses by grounding LLM outputs in solar regulations, incentives, and system parameters.
+
+</details>
+
 ### [User-Manuals-Rag-Chatbot](https://github.com/victoria-vasilieva/User-Manuals-Rag-Chatbot) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![ML](https://img.shields.io/badge/ML-FF6F61?style=flat)
 An AI-powered chatbot for technical PDFs, demonstrating RAG pipelines, experimental evaluation, and faithfulness-focused answer generation.  
 
